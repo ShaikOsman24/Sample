@@ -10,8 +10,10 @@ public class ContactTest {
 		String url=System.getProperty("url");
 		String username=System.getProperty("username");
 		String pass=System.getProperty("pass");
+		String browser=System.getProperty("browser");
 		
 		System.out.println(url);
+		System.out.println(browser);
 		System.out.println(username);
 		System.out.println(pass);
 		
