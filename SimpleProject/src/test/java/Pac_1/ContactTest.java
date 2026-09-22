@@ -23,4 +23,9 @@ public class ContactTest {
 		System.out.println(" ModifyContactTest Created Successfully");
 	}
 	
+	@Test
+	public void DeleteTest() {
+		System.out.println("DeleteTest Deleted Successfully");
+	}
+	
 }
