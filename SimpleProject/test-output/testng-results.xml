@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-29T13:18:32 IST" name="Default suite" finished-at="2026-09-29T13:18:36 IST" duration-ms="4729">
+    <groups>
+    </groups>
+    <test started-at="2026-09-29T13:18:32 IST" name="Default test" finished-at="2026-09-29T13:18:36 IST" duration-ms="4729">
+      <class name="Rest_Assured.test_1">
+        <test-method signature="test()[pri:0, instance:Rest_Assured.test_1@2a3b5b47]" started-at="2026-09-29T13:18:32 IST" name="test" finished-at="2026-09-29T13:18:36 IST" duration-ms="4330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test2()[pri:0, instance:Rest_Assured.test_1@2a3b5b47]" started-at="2026-09-29T13:18:36 IST" name="test2" finished-at="2026-09-29T13:18:36 IST" depends-on-methods="Rest_Assured.test_1.test" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Rest_Assured.test_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

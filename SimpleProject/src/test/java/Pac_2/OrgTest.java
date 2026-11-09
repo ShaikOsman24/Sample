@@ -16,11 +16,13 @@ public class OrgTest {
 		System.out.println(username);
 		System.out.println(pass);
 		System.out.println("CreateOrgTest Created Successfully");
+		
 	}
 	
 	@Test
 	public void ModifyOrgTest() {
 		System.out.println(" ModifyOrgTest Created Successfully");
-	}
+
+	  }
 	
 }
